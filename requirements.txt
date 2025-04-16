@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+requests
+datasets
+Pillow
+altair
+plotly
+matplotlib
+streamlit-lottie
+scikit-learn
+joblib
+tensorflow
+cryptography
