@@ -11,10 +11,9 @@
 ####
  Security Analysis Results
 -
- 
-**
+
 Key Space
-**
+
 : 2^512 (for 512-bit keys with 3 rounds)
 -
  
@@ -23,10 +22,9 @@ Correlation Coefficient
 **
 : < 0.001 (excellent decorrelation)
 -
- 
-**
+
 Chi-Square Test
-**
+
 : p-value > 0.05 (random distribution)
 -
  
