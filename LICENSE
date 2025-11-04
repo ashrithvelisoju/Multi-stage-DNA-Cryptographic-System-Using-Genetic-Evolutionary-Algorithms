@@ -1,17 +1,13 @@
 MIT License
-
 Copyright (c) 2024 Ashrith Velisoju
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -20,65 +16,43 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
-## Academic Use Notice
-
+Academic Use Notice
 This software was developed as part of an academic project at:
-- **Institution**: Mahatma Gandhi Institute of Technology
-- **Department**: Computer Science and Engineering
-- **Course**: Industry Oriented Mini Project (CS653PC)
-- **Academic Year**: 2024-2025
 
-### Citation Requirement
+Institution: Mahatma Gandhi Institute of Technology
+Department: Computer Science and Engineering
+Course: Industry Oriented Mini Project (CS653PC)
+Academic Year: 2024-2025
 
-If you use this software in academic research, please cite:
-
-```bibtex
-@misc{velisoju2024dna_crypto,
-  author = {Velisoju, Ashrith},
-  title = {Multi-Stage DNA Cryptographic System Using Genetic Evolutionary Algorithms},
-  year = {2024},
-  institution = {Mahatma Gandhi Institute of Technology},
-  department = {Computer Science and Engineering},
-  note = {Industry Oriented Mini Project (CS653PC)}
-}
-```
-
-### Research Collaboration
-
+Research Collaboration
 For research collaboration, commercial licensing inquiries, or technical support:
-- Open an issue on the GitHub repository
-- Contact through institutional channels
 
----
+Open an issue on the GitHub repository
+Contact through institutional channels
 
-## Disclaimer
 
-This cryptographic system is provided for educational and research purposes. 
+Disclaimer
+This cryptographic system is provided for educational and research purposes.
 While the system implements advanced security mechanisms:
 
-- This software has not undergone formal security audits
-- Use in production environments is at your own risk
-- The authors assume no liability for data breaches or security incidents
-- Users are responsible for compliance with local regulations regarding cryptographic software
+This software has not undergone formal security audits
+Use in production environments is at your own risk
+The authors assume no liability for data breaches or security incidents
+Users are responsible for compliance with local regulations regarding cryptographic software
 
-For production deployments involving sensitive data, professional security 
+For production deployments involving sensitive data, professional security
 audits and legal compliance reviews are strongly recommended.
 
----
-
-## Third-Party Dependencies
-
+Third-Party Dependencies
 This software uses the following open-source libraries, each with their own licenses:
 
-- Streamlit (Apache License 2.0)
-- NumPy (BSD License)
-- Pandas (BSD License)
-- Matplotlib (PSF License)
-- Plotly (MIT License)
-- HuggingFace Datasets (Apache License 2.0)
-- Requests (Apache License 2.0)
-- Pillow (HPND License)
+Streamlit (Apache License 2.0)
+NumPy (BSD License)
+Pandas (BSD License)
+Matplotlib (PSF License)
+Plotly (MIT License)
+HuggingFace Datasets (Apache License 2.0)
+Requests (Apache License 2.0)
+Pillow (HPND License)
 
 Please refer to individual library documentation for their specific license terms.
